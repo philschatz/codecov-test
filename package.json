@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "nyc ./index.js"
+  },
+  "devDependencies": {
+    "nyc": "^10.1.2"
+  }
+}

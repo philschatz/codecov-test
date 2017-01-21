@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "nyc ./index.js"
+    "test": "nyc --reporter json --reporter text ./index.js"
   },
   "devDependencies": {
     "nyc": "^10.1.2"
